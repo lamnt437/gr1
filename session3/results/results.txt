@@ -1,0 +1,6 @@
+Epoch:  9
+Accuracy on test data:  0.7469463621879979
+Epoch:  10
+Accuracy on test data:  0.7452203929899097
+Epoch:  11
+Accuracy on test data:  0.7470791290493892
